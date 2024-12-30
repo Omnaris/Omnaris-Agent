@@ -63,7 +63,7 @@ Additionally, configure the ```TWITTER_API_PLAN``` to ensure optimal throttling 
 
 ### Running Your Agent
 Once your environment variables are set up, you can start the Omnaris agent using the following command:
-```tsx bin/omnaris.ts```
+```tsx bin/agent.ts```
 This will initialize the agent and begin processing tweets and interactions based on your configuration.
 
 ### Command Usage
